@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "NEN",
+    "NEN",
+    "NLN"
+  ],
+  "key": {
+    "N": {
+      "item": "minecraft:netherite_block"
+    },
+    "E": {
+      "item": "running:chrono_essence"
+    },
+    "L": {
+      "item": "minecraft:netherite_boots"
+    }
+  },
+  "result": {
+    "item": "running:chrono_boots"
+  }
+}

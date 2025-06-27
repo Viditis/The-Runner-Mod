@@ -1,0 +1,12 @@
+{
+	"required": true,
+	"package": "com.viditagarwal.running.mixin",
+	"compatibilityLevel": "JAVA_17",
+	"client": [
+		"client.ClientPlayerEntityMixin",
+		"client.ExampleClientMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}

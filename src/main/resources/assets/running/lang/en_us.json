@@ -1,0 +1,6 @@
+{
+  "item.running.chrono_boots": "§5§lChrono Boots",
+  "message.running.mode.travel": "§6Chrono Boots: Travel Mode",
+  "message.running.mode.combat": "§4§lChrono Boots: Combat Mode",
+  "message.running.mode.regular": "§7Chrono Boots: Regular Mode"
+}

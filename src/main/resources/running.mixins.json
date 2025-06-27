@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "package": "com.viditagarwal.running.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "FenceGateBlockMixin",
+    "WitherEntityMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1,
+    "maxShiftBy": 5,
+    "defaultGroup": "default",
+    "injectionPoints": []
+  }
+}
