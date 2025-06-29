@@ -2,8 +2,11 @@
 Chrono Boots give you godlike movement with 3 modes:
 
 🔸 Travel Mode – Dash across land and water at insane speeds
+
 🔸 Combat Mode – Freeze time itself: enemies, arrows, and more
+
 🔸 Regular Mode – Walk like a mortal (but... why?)
+
 
 Also includes:
 🌀 Phasing Ability – Walk through walls, hover, and kill mobs in your path like a ghost
